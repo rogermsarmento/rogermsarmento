@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋,</h1>
+<h1 align="center">'How You Doin?' 👋,</h1>
 
 I'm Roger Sarmento. I am from the countryside (Iguatu), but I live in Fortaleza, Ceará, Brazil. I have an PhD in Eng. in Teleinformatics (2021) from the Federal University of Ceará (UFC) and MSc degree in Computer Science (2016) from the Federal Institute of Ceará (IFCE). I'm currently an associate professor at IFCE and researcher at the Image Processing and Computer Simulation Laboratory (LAPISCO) at the Graduate Program in Computer Science (PPGCC).
 
