@@ -1,7 +1,6 @@
 <h1 align="center">Olá, tudo bem? 👋,</h1>
 
-Eu me chamo Roger Sarmento. Sou do interior do Ceará (Iguatu), mas hoje em dia moro em Fortaleza-CE-Brasil. Tenho Doutorado em Eng. em Teleinformática (2021) pela Universidade 
-Federal do Ceará (UFC) e Mestrado em Ciência da Computação (2016) pelo Instituto Federal do Ceará (IFCE). Atualmente sou professor associado do IFCE e
+Eu me chamo Roger Sarmento. Sou do interior do Ceará (Iguatu), mas hoje em dia moro em Fortaleza-CE-Brasil. Tenho Doutorado em Eng. em Teleinformática (2021) pela Universidade Federal do Ceará (UFC) e Mestrado em Ciência da Computação (2016) pelo Instituto Federal do Ceará (IFCE). Atualmente sou professor associado do IFCE e
 pesquisador no Laboratório de Processamento de Imagens e Simulação Computacional (LAPISCO) do Programa de Pós-Graduação em Ciência da Computação (PPGCC).
 
 - 🌱 Atualmente estou estudando **Go, Kafka, Kubernets, Redis, Airflow and Docker**.
@@ -43,5 +42,5 @@ pesquisador no Laboratório de Processamento de Imagens e Simulação Computacio
 #### _Leia em [outros idiomas](translations/Translations.md)._
 <kbd>[<img title="Inglês" alt="Inglês" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/us.svg" width="22">](README.md)</kbd>
 <kbd>[<img title="Española" alt="Española" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/es.svg" width="22">](translations/README.es.md)</kbd>
-<kbd>[<img title="Português" alt="Português" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/fr.svg" width="22">](translations/README.fr.md)</kbd>
+<kbd>[<img title="Française" alt="Française" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/fr.svg" width="22">](translations/README.fr.md)</kbd>
 
